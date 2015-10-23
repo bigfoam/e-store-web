@@ -1,0 +1,13 @@
+{
+  "name": "E-Store Web",
+  "description": "E-Store Web",
+  "keywords": [
+    "react",
+    "es6",
+    "starter"
+  ],
+  "repository": "https://github.com/JustinFeng/e-store-web",
+  "env": {
+    "PRODUCTION": "true"
+  }
+}
